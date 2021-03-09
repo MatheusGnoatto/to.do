@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="todo" title="todo" src=".github/todo.gif" />
+    <img alt="todo" title="todo" src=".github/to-do.gif" />
 </h1>
 
 <p align="center">
@@ -25,9 +25,7 @@
   <img alt="Moveit" src=".github/logo.svg" width="120px">
 </p>
 
-## 🧪 Technologies
-
-This project was developed using the following technologies:
+## 🧪 Tecnologias
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -39,13 +37,13 @@ This project was developed using the following technologies:
 
 ## 🚀 Getting started
 
-Clone the project and access the folder
+Clone o projeto e o acesse
 
 ```bash
 $ git clone https://github.com/eduardoluizdev/todo.git && cd todo
 ```
 
-Follow the steps below
+
 
 ```bash
 # Install the dependencies
@@ -67,10 +65,5 @@ You can view the project template through the links below:
 
 - [Application Template](https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react)
 
-## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
-
----
-
-<p align="center">Made with 💜 by Eduardo Luiz</p>
+<p align="center">Feito por Matheus Gnoatto</p>
