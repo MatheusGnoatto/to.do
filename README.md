@@ -24,16 +24,16 @@
 ## 💻 Instalando o Projeto
 
 ```bash
-$ git clone https://github.com/eduardoluizdev/todo.git && cd todo
+$ git clone https://github.com/eduardoluizdev/todo.git && cd ignite-template-reactjs-conceitos-do-react-main
 ```
 
 
 
 ```bash
-# Install the dependencies
+# Instale as dependências
 $ yarn
 
-# Start the project
+# Inicie o pojeto
 $ yarn dev
 ```
 
