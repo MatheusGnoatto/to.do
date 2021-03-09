@@ -3,12 +3,10 @@
 </h1>
 
 <p align="center">
-  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Instalando o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Template</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>
 </p>
 
 <p align="center">
@@ -35,7 +33,7 @@
 
 [![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://todoignite.netlify.app/)
 
-## 🚀 Getting started
+## 🚀 Instalando o Projeto
 
 Clone o projeto e o acesse
 
@@ -52,12 +50,6 @@ $ yarn
 # Start the project
 $ yarn dev
 ```
-
-## 💻 Project
-
-Project developed to fix state teachings within React 💜
-
-This is a project developed during the first Bootcamp Ignite ** Chapter, presented by ** [@Rocketseat](https://github.com/Rocketseat) \*\*.
 
 ## 🔖 Template
 
