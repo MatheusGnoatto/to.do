@@ -41,7 +41,7 @@ $ yarn dev
 
 Use o link abaixo para acessar o modelo do projeto:
 
-- [Application Template](https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react)
+- [Modelo da Aplicação](https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react)
 
 
 <p align="center">Feito por Matheus Gnoatto</p>
