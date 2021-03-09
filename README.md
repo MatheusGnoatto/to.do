@@ -11,10 +11,8 @@
 ## 💻 Instalando o Projeto
 
 ```bash
-$ git clone https://github.com/MatheusGnoatto/Desafio-Conceitos-React && cd ignite-template-reactjs-conceitos-do-react-main
+$ git clone https://github.com/MatheusGnoatto/Desafio-Conceitos-React && cd cd Desafio-Conceitos-React
 ```
-
-
 
 ```bash
 # Instale as dependências
