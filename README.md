@@ -19,10 +19,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="Moveit" src=".github/logo.svg" width="120px">
-</p>
-
 ## 🧪 Tecnologias
 
 - [React](https://reactjs.org)
