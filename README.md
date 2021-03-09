@@ -11,7 +11,7 @@
 ## 💻 Instalando o Projeto
 
 ```bash
-$ git clone https://github.com/MatheusGnoatto/Desafio-Conceitos-React && cd cd Desafio-Conceitos-React
+$ git clone https://github.com/MatheusGnoatto/Desafio-Conceitos-React && cd Desafio-Conceitos-React
 ```
 
 ```bash
