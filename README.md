@@ -1,16 +1,3 @@
-<h1 align="center">
-    <img alt="todo" title="todo" src=".github/to-do.gif" />
-</h1>
-
-<p align="center">
-  <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Instalando o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Template</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
-<br>
-
 ## 🔥 Preview
 
 [![Netlify](https://www.netlify.com/img/deploy/button.svg)](https://todo-matheusgnoatto.netlify.app)
