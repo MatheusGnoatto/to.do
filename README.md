@@ -11,19 +11,17 @@
 
 <br>
 
+## 🔥 Preview
+
+[![Netlify](https://www.netlify.com/img/deploy/button.svg)](https://todo-matheusgnoatto.netlify.app)
+
 ## 🧪 Tecnologias
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [SASS](https://sass-lang.com/)
 
-## 🔥 Preview
-
-[![Netlify](https://www.netlify.com/img/deploy/button.svg)](https://todo-matheusgnoatto.netlify.app)
-
-## 🚀 Instalando o Projeto
-
-Clone o projeto e o acesse
+## 💻 Instalando o Projeto
 
 ```bash
 $ git clone https://github.com/eduardoluizdev/todo.git && cd todo
@@ -39,9 +37,9 @@ $ yarn
 $ yarn dev
 ```
 
-## 🔖 Modelo
+## 🥇 Modelo
 
-Modelo do projeto:
+Use o link abaixo para acessar o modelo do projeto:
 
 - [Application Template](https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react)
 
