@@ -19,7 +19,7 @@
 
 ## 🔥 Preview
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://todoignite.netlify.app/)
+[![Netlify](https://www.netlify.com/img/deploy/button.svg)](https://todoignite.netlify.app/)
 
 ## 🚀 Instalando o Projeto
 
