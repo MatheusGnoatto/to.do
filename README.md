@@ -39,9 +39,9 @@ $ yarn
 $ yarn dev
 ```
 
-## 🔖 Template
+## 🔖 Modelo
 
-You can view the project template through the links below:
+Modelo do projeto:
 
 - [Application Template](https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react)
 
