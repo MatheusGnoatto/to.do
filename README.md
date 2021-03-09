@@ -19,7 +19,7 @@
 
 ## 🔥 Preview
 
-[![Netlify](https://www.netlify.com/img/deploy/button.svg)](https://todoignite.netlify.app/)
+[![Netlify](https://www.netlify.com/img/deploy/button.svg)](https://todo-matheusgnoatto.netlify.app)
 
 ## 🚀 Instalando o Projeto
 
